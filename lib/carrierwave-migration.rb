@@ -1,0 +1,1 @@
+require_relative 'carrierwave_migration'
